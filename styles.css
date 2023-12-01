@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+select {
+    margin: 10px;
+}
+
+#learningOutcomes {
+    margin-top: 20px;
+}
+
+#outcomeList {
+    display: flex;
+}
+
+.outcomeBox {
+    border: 1px solid black;
+    padding: 10px;
+    margin-right: 10px;
+}
